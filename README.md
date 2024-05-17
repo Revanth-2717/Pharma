@@ -91,7 +91,7 @@ home.html
 
   <!-- Footer -->
   <footer class="bg-dark text-white text-center py-4 mt-5">
-    <p>&copy; 2024 PharmaCompany. All rights reserved. K.ABHINESWAR REDDY</p>
+    <p>&copy; 2024 PharmaCompany. All rights reserved. P.REVANTH</p>
   </footer>
 
   <!-- Bootstrap JS -->
@@ -169,7 +169,7 @@ about.html
   <br><br>
   <!-- Footer -->
   <footer class="bg-dark text-white text-center py-4 mt-3">
-    <p>&copy; 2024 PharmaCompany. All rights reserved.  BY K.ABHINESWAR REDDY</p>
+    <p>&copy; 2024 PharmaCompany. All rights reserved.  BY P.REVANTH</p>
   </footer>
 
   <!-- Bootstrap JS -->
@@ -277,7 +277,7 @@ product.html
 
   <!-- Footer -->
   <footer class="bg-dark text-white text-center py-4 mt-5">
-    <p>&copy; 2024 PharmaCompany. All rights reserved. BY K.ABHINESWAR REDDY </p>
+    <p>&copy; 2024 PharmaCompany. All rights reserved. BY P.REVANTH </p>
   </footer>
   <body background="https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0zNzNiYXRjaDE1LTIxNy0wMS5qcGc.jpg" style="background-repeat: no-repeat; background-size: cover;">
 
@@ -368,7 +368,7 @@ contact.html
     <br><br><br>
   <!-- Footer -->
   <footer class="bg-dark text-white text-center py-4 mt-2 ">
-    <p>&copy; 2024 PharmaCompany. All rights reserved. BY K.ABHINESWAR REDDY</p>
+    <p>&copy; 2024 PharmaCompany. All rights reserved. BY P.REVANTH</p>
 
   </footer>
 
@@ -455,7 +455,7 @@ contact.html
     <br><br><br>
   <!-- Footer -->
   <footer class="bg-light text-white text-center py-4 mt-2 ">
-    <p>&copy; 2024 PharmaCompany. All rights reserved. BY K.ABHINESWAR REDDY</p>
+    <p>&copy; 2024 PharmaCompany. All rights reserved. BY P.REVANTH</p>
 
   </footer>
 
@@ -473,13 +473,10 @@ contact.html
 ```
 
 ## OUTPUT:
-![alt text](<1.HOME (2).png>)
-
-![alt text](2.ABOUT.png)
-
-![alt text](3.PRODUCT.png)
-
-![alt text](CONTACT.png)
+![alt text](<Screenshot 2024-05-17 215508.png>)
+![alt text](<Screenshot 2024-05-17 215528.png>)
+![alt text](<Screenshot 2024-05-17 215619.png>)
+![alt text](<Screenshot 2024-05-17 222723.png>)
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
